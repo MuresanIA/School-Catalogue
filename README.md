@@ -10,8 +10,8 @@
 
 #It has the following implementations:
   1. JWT Authentification
-  2. Email confirmation after register.
-  3. Rest-API Controller (SendGrid)
+  2. Email confirmation after register(SendGrid).
+  3. Rest-API Controller 
   
 
 You can access the application: https://school-catalog1.herokuapp.com/
