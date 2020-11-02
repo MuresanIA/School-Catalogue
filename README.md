@@ -13,4 +13,4 @@
 - JPA & Hibernate
 
 
-Test Online School Catalogue here: https://school-catalog1.herokuapp.com/
+Test Online School Catalogue application here: https://school-catalog1.herokuapp.com/
