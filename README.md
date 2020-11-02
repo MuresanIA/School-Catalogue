@@ -1,17 +1,16 @@
-#Hello
+#Online School Catalogue
 
-#Thank you for your interest in School-Online-Catalog.
+##Technology used:
 
-#School online catalog is in progress.
+- Java
+- JavaScript
+- jQuery
+- Spring - Data
+- Spring - Web
+- Spring - Security
+- JWT authentication
+- SendGrid
+- JPA & Hibernate
 
-#There is much to be done.
 
-#Thymeleaf is used as front - end.
-
-#It has the following implementations:
-  1. JWT Authentification
-  2. Email confirmation after register(SendGrid).
-  3. Rest-API Controller 
-  
-
-You can access the application: https://school-catalog1.herokuapp.com/
+Test Online School Catalogue here: https://school-catalog1.herokuapp.com/
