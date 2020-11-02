@@ -1,6 +1,6 @@
-#Online School Catalogue
+# Online School Catalogue
 
-##Technology used:
+## Technology used:
 
 - Java
 - JavaScript
