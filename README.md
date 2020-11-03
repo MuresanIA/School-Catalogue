@@ -5,6 +5,9 @@
 - Java
 - JavaScript
 - jQuery
+- Thymeleaf
+- Hypertext Markup Language
+- Cascade Style Sheet
 - Spring - Data
 - Spring - Web
 - Spring - Security
